@@ -1,0 +1,62 @@
+Power BI Project Image: (https://raw.githubusercontent.com/sefat00/Power-BI-Project-/refs/heads/main/1_IjOew2iC-DNeo0iFv-i78A.webp)
+
+Now I explain that visualization-
+
+
+The first photo-
+1.Sum of Boxes Shipped by Country:
+This visualization focuses on the total number of boxes shipped to different countries.
+Key Insights:
+The graph compares shipping volumes across countries like the USA, UK, India, Canada, Australia, and New Zealand.
+Countries with taller bars (e.g., USA) indicate higher shipping volumes, while shorter bars (e.g., New Zealand) suggest lower volumes.
+This helps identify which regions are key markets for the business.
+Use Case:
+This analysis can optimize logistics and distribution strategies by focusing on high-demand regions.
+
+
+The second photo:
+2.Sum of Amount by Year, Quarter, and Month:
+This visualization tracks the total amount (likely revenue or sales) over time, broken down by year, quarter, and month.
+Key Insights:
+Monthly Trends — The graph tracks 2022 trends, with amounts reaching up to 0.9M.
+Highs & Lows — Some months (e.g., January) show peak amounts, while others (e.g., February) see declines.
+Seasonal Patterns — Helps identify periods of strong and weak performance.
+Use Case:
+This analysis helps businesses understand revenue patterns and prepare for seasonal changes.
+
+
+The third photo:
+3.Sum of Boxes Shipped by Product:
+This graph breaks down the total number of boxes shipped by product.
+Key Insights:
+Products like Dark Bites (9.8K boxes) and Smooth Silky S… (8.8K boxes) are the top performers in terms of shipping volume.
+Other products, such as Drinking Coco and Milk Bars, show moderate shipping volumes.
+This helps identify which products are in high demand and which may need more marketing or distribution efforts.
+Use Case:
+Businesses can use this data to prioritize high-performing products and improve inventory management.
+
+
+
+The fourth photo:
+4.Sum of Amount by Year, Quarter, Month, and Product:
+This graph provides a more detailed view of the total amount, broken down by time periods and products.
+
+
+Key Insights:
+Some products, like Milk Bars and 85% Dark Bars, show consistent performance.
+However, there are noticeable decreases in certain months (e.g., February 2022), with negative values like -0.14M.
+Possible reasons for the decline include underperforming products (e.g., 99% Dark & Pure) or external market factors.
+Use Case:
+This helps businesses pinpoint underperforming products or periods and take corrective actions.
+
+
+
+Key Takeaways from the Project:
+Geographical Insights:
+The Sum of Boxes Shipped by Country visualization highlights key markets, helping businesses focus on high-demand regions.
+Product Performance:
+The Sum of Boxes Shipped by Product graph identifies top-performing products, enabling better inventory and marketing strategies.
+Time-Based Trends:
+The Sum of Amount by Year, Quarter, and Month visualization reveals seasonal trends, aiding in revenue forecasting and planning.
+Detailed Analysis:
+The Sum of Amount by Year, Quarter, Month, and Product graph provides a granular view of performance, helping businesses address declines and optimize product offerings.
